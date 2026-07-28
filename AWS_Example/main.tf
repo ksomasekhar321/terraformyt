@@ -1,5 +1,3 @@
-# This is updated code
-
 terraform {
   required_providers {
     aws = {
